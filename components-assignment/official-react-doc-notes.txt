@@ -1,0 +1,9 @@
+1. How do I know when to use JavaScript and when to use HTML? The checkpoint had us create a component that could have been done in, I believe, just HTML. Was that solely just to show us how to create a React component, or was there a benefit to doing it that way?
+
+2. Can you use “plain” JavaScript alongside React in a document?
+
+3. What does it mean to “own the state?” (state versus props)
+
+4. Are there any tricks/tips/guidelines to breaking down how to construct a component - for instance, how did they know how to break down the tic tac toe example the way that they did?
+
+5. React is essentially a new “language” to learn - - it’s a meld between JavaScript and HTML.
